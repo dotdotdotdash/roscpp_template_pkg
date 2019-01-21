@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+    <test test-name="sample_test" pkg="template_pkg" type="sample_test"/>
+</launch>
