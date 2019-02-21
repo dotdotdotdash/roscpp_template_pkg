@@ -1,4 +1,3 @@
-// Copyright 2018 Venkisagunner. All rights reserved.
 #include "template_pkg/example_header.h"
 ExampleRosClass::ExampleRosClass(ros::NodeHandle* nodehandle):nh(*nodehandle)
 {
